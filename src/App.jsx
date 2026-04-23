@@ -14,10 +14,10 @@ const App = () => {
   return (
     <main>
       <Navbar />
-      <Hero />
+      <Herosda />
       <Cocktails />
       <About />
-      <DArt />
+      <Art />
       <Menu />
       <Contact/>
     </main>
