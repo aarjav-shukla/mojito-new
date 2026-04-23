@@ -62,7 +62,7 @@ body {
 @layer components {
     main {
         @apply w-full overflow-x-hidden;
-    }
+    }     
 
     nav {
         @apply fixed z-50 w-full;
