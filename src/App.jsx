@@ -17,7 +17,7 @@ const App = () => {
       <Hero />
       <Cocktails />
       <About />
-      <Art />
+      <DArt />
       <Menu />
       <Contact/>
     </main>
