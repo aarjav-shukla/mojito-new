@@ -14,7 +14,7 @@ const App = () => {
   return (
     <main>
       <Navbar />
-      <Herosda />
+      <Hero/>
       <Cocktails />
       <About />
       <Art />
