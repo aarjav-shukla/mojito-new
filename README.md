@@ -47,4 +47,4 @@ The project focuses on a polished visual presentation with motion-enhanced inter
 
 ## Deployment
 
-This project is configured for GitHub Pages deployment through the deploy script in package.json. The homepage field already points to the published site URL.
+This project is configured for GitHub Pages deployment through the deploy script in package.json. The homepage field already points to the published site URL
