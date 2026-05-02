@@ -22,7 +22,7 @@ The project focuses on a polished visual presentation with motion-enhanced inter
 - Tailwind CSS 4 for utility-based styling
 - react-responsive for responsive behavior across breakpoints
 - ESLint for code quality checks
-- gh-pages for GitHub Pages deployment
+- gh-pages for GitHub Pages deployment.
 
 ## Project Structure
 
